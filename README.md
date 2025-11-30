@@ -61,26 +61,29 @@ Email: employee@gmail.com
 Password: 123456
 
 
+## Project Screenshots
 
-## Screenshots
+###  Register Page  
 
-## 📸 Project Screenshots
-
-### 📝 Register Page  
 ![Register Page](./screenshots/register.png)
 
-### 🧑‍💼 Employee Dashboard  
+###  Employee Dashboard  
+
 ![Employee Dashboard](./screenshots/employee_board.png)
 
-### 👨‍💼 Manager Dashboard  
+###  Manager Dashboard  
+
 ![Manager Dashboard](./screenshots/manager_board.png)
 
-### 🕒 Mark Attendance  
+###  Mark Attendance  
+
 ![Mark Attendance](./screenshots/mark_attendance.png)
 
-### 👥 All Employees Attendance  
+###  All Employees Attendance 
+
 ![All Employees Attendance](./screenshots/all_employee_attendance.png)
 
-### 📅 Team Calendar  
+###  Team Calendar  
+
 ![Team Calendar](./screenshots/team_calender.png)
 

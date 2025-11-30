@@ -18,36 +18,37 @@ Demo Video- https://drive.google.com/file/d/1At5M2vQKrPRjthhFJWl496Z9VxEOcmGm/vi
 
 ## ⚙ Setup Instructions
 
-Clone the Project
+**Clone the Project**
+```bash
 git clone <repository-link>
 cd employee-attendance-system
 Install dependencies:
 
+bash
+Copy code
 npm install
-
-
 Create a .env file in the backend root directory with the following variables:
 
+ini
+Copy code
 MONGO_URI=your_mongodb_connection_string
 JWT_SECRET=your_secret_key
 PORT=5000
-
-
 Start the backend server:
 
+bash
+Copy code
 npm start
-
-
 or (if using nodemon)
 
+bash
+Copy code
 npm run dev
-
-
 Backend will run on:
 
+arduino
+Copy code
 http://localhost:5000
-
-
 Default Login Credentials (Example)
 
 For testing purposes, the seed data may include:
@@ -59,7 +60,6 @@ Password: 123456
 Employee Account:
 Email: employee@gmail.com
 Password: 123456
-
 
 ## Project Screenshots
 

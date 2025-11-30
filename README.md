@@ -24,8 +24,7 @@ cd employee-attendance-system
 ```
 
 ### Install dependencies:
-```npm install
-```
+```npm install```
 
 ### Create a .env file in the backend root directory with the following variables:
 ```MONGO_URI=your_mongodb_connection_string

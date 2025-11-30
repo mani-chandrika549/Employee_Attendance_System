@@ -32,15 +32,12 @@ JWT_SECRET=your_secret_key
 PORT=5000
 ```
 ### Start the backend server:
-```npm start
-```
+```npm start```
 or (if using nodemon)
-```npm run dev
-```
+```npm run dev```
 
 ### Backend will run on:
-```http://localhost:5000
-```
+```http://localhost:5000```
 
 ### Default Login Credentials (Example)
 

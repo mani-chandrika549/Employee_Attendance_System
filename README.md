@@ -18,10 +18,6 @@ Demo Video- https://drive.google.com/file/d/1At5M2vQKrPRjthhFJWl496Z9VxEOcmGm/vi
 
 ## ⚙ Setup Instructions
 
-### Clone the Repository
-```bash
-git clone https://github.com/your-username/employee-attendance-system.git
-cd employee-attendance-system
 
 
 

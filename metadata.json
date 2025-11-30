@@ -1,0 +1,5 @@
+{
+  "name": "WorkTrack - Employee Attendance System",
+  "description": "A comprehensive attendance tracking system with Employee and Manager roles, featuring real-time check-ins, calendar views, and analytical dashboards.",
+  "requestFramePermissions": []
+}

@@ -6,8 +6,10 @@ export default defineConfig(({ mode }) => {
     const env = loadEnv(mode, '.', '');
     return {
       server: {
-        port: 3000,
-        host: '0.0.0.0',
+            host: true
+  },
+  preview: {
+    allowedHosts: ["employee-attendance-system-4-q38l.onrender.com"]
       },
       plugins: [react()],
       define: {

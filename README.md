@@ -23,32 +23,36 @@ Demo Video- https://drive.google.com/file/d/1At5M2vQKrPRjthhFJWl496Z9VxEOcmGm/vi
 cd employee-attendance-system
 ```
 
-Install dependencies:
-npm install
+### Install dependencies:
+```npm install
+```
 
-Create a .env file in the backend root directory with the following variables:
-MONGO_URI=your_mongodb_connection_string
+### Create a .env file in the backend root directory with the following variables:
+```MONGO_URI=your_mongodb_connection_string
 JWT_SECRET=your_secret_key
 PORT=5000
-
-Start the backend server:
-npm start
+```
+### Start the backend server:
+```npm start
+```
 or (if using nodemon)
-npm run dev
+```npm run dev
+```
 
-Backend will run on:
-http://localhost:5000
+### Backend will run on:
+```http://localhost:5000
+```
 
-Default Login Credentials (Example)
+### Default Login Credentials (Example)
 
 For testing purposes, the seed data may include:
 
-Manager Account:
+#### Manager Account:
 Email: manager@gmail.com
 
 Password: 123456
 
-Employee Account:
+#### Employee Account:
 Email: employee@gmail.com
 
 Password: 123456

@@ -16,11 +16,12 @@ Demo Video- https://drive.google.com/file/d/1At5M2vQKrPRjthhFJWl496Z9VxEOcmGm/vi
 
 ---
 
-Setup Instructions
+## Setup Instructions
 
-Clone the Project
-git clone <repository-link>
+### Clone the Project
+```git clone <repository-link>
 cd employee-attendance-system
+```
 
 Install dependencies:
 npm install

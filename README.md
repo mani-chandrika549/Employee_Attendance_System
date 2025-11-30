@@ -25,9 +25,6 @@ Demo Video- https://drive.google.com/file/d/1At5M2vQKrPRjthhFJWl496Z9VxEOcmGm/vi
 
 ## 📸 Project Screenshots
 
-### 🔐 Login Page  
-![Login Page](./screenshots/login.png)
-
 ### 📝 Register Page  
 ![Register Page](./screenshots/register.png)
 

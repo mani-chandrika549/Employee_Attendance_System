@@ -22,8 +22,3 @@ Demo Video- https://drive.google.com/file/d/1At5M2vQKrPRjthhFJWl496Z9VxEOcmGm/vi
 ```bash
 git clone https://github.com/your-username/employee-attendance-system.git
 cd employee-attendance-system
-
-
-
-*   **Employee:** Register/Login, Check In/Out, View History, Dashboard Stats.
-*   **Manager:** View Team Attendance, Reports, Export CSV, Team Calendar.

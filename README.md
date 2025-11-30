@@ -18,7 +18,20 @@ Demo Video- https://drive.google.com/file/d/1At5M2vQKrPRjthhFJWl496Z9VxEOcmGm/vi
 
 ## ⚙ Setup Instructions
 
-### 1️⃣ Clone the Repository
+### Clone the Repository
 ```bash
 git clone https://github.com/your-username/employee-attendance-system.git
 cd employee-attendance-system
+
+
+
+## Screenshots
+
+| Screenshot | Description |
+|-----------|-------------|
+| ![](screenshots/register.png) | Register Page |
+| ![](screenshots/employee_board.png) | Employee Dashboard |
+| ![](screenshots/manager_board.png) | Manager Dashboard |
+| ![](screenshots/all_employee_attendance.png) | All Employee Attendance Page |
+| ![](screenshots/team_calender.png) | Team Calendar View |
+| ![](screenshots/mark_attendance.png) | Mark Attendance Page |
